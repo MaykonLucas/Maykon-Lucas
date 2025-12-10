@@ -7,6 +7,7 @@
 
 <h3>🔧 Tech Stack</h3>
 </div>
+
 - **Microsoft Ecosystem:** Dataverse | Dynamics 365 (Sales, Service) | Power Platform | Power Automate | Power BI | Power Fx
 <!-- Microsoft Ecosystem -->
 <div align="left">
