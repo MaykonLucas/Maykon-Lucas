@@ -6,7 +6,8 @@
 </div>
 
 <h3>🔧 Tech Stack</h3>
-- **Microsoft Ecosystem:** Dataverse | Dynamics 365 (Sales, Service) | **Power Platform** | Power Automate | **Power BI** | **Power Fx**
+- **Linguagens de Programação:**
+ **Microsoft Ecosystem:** Dataverse | Dynamics 365 (Sales, Service) | Power Platform | Power Automate | Power BI | Power Fx
 <!-- Microsoft Ecosystem -->
 <div align="left">
   <img src="https://imgs.search.brave.com/Kykp5V16MzvmUGC-6K9VPTOE0bicPbsr1_0n9AnqaIs/rs:fit:500:0:1:0/g:ce/aHR0cHM6Ly9hc3Nl/dHMuc3RpY2twbmcu/Y29tL2ltYWdlcy82/MjA2NzM1Y2Q3Yjkx/YjAwMDQxMjI2MjQu/cG5n" height="30" alt="dataverse" />
@@ -20,7 +21,7 @@
   <img src="https://imgs.search.brave.com/jN1hO2Xq_bk8ytZSeA9NAurWRxd3f6FTMBiRpAUptZs/rs:fit:860:0:0:0/g:ce/aHR0cHM6Ly9lYmFj/b25saW5lLmNvbS5i/ci9pbWFnZXMvdGls/ZDMyMzItMzEzMy00/NDMxLWE1NjEtMzY2/NTM5MzgzNjM5X19w/b3dlci1iaS1tb2Jp/bGUtbG9nby5wbmc" height="30" alt="powerbi" /> <!-- Exemplo de ícone simples -->
 </div>
 
-- **Linguagens de Programação:** **C# ** | JavaScript | TypeScript | **FetchXML (Básico)**
+- **Linguagens de Programação:** C# | JavaScript | TypeScript | FetchXML
 <!-- Linguagens de Programação -->
 <div align="left" style="margin-top: 8px;">
   <!-- Nova: Adicione ícone para C# (devicons: csharp-original.svg) -->
