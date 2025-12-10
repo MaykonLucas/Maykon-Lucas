@@ -6,8 +6,8 @@
 </div>
 
 <h3>🔧 Tech Stack</h3>
-- **Linguagens de Programação:**
- **Microsoft Ecosystem:** Dataverse | Dynamics 365 (Sales, Service) | Power Platform | Power Automate | Power BI | Power Fx
+</div>
+- **Microsoft Ecosystem:** Dataverse | Dynamics 365 (Sales, Service) | Power Platform | Power Automate | Power BI | Power Fx
 <!-- Microsoft Ecosystem -->
 <div align="left">
   <img src="https://imgs.search.brave.com/Kykp5V16MzvmUGC-6K9VPTOE0bicPbsr1_0n9AnqaIs/rs:fit:500:0:1:0/g:ce/aHR0cHM6Ly9hc3Nl/dHMuc3RpY2twbmcu/Y29tL2ltYWdlcy82/MjA2NzM1Y2Q3Yjkx/YjAwMDQxMjI2MjQu/cG5n" height="30" alt="dataverse" />
