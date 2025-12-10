@@ -17,7 +17,7 @@
   <img width="12" />
   <img src="https://imgs.search.brave.com/wTbUPID3uDJ7YVXrhd-_bOoLMfxTm0UXPyA-6elNGIo/rs:fit:500:0:1:0/g:ce/aHR0cHM6Ly9icmFu/ZGxvZ28ub3JnL3dw/LWNvbnRlbnQvdXBs/b2Fkcy8yMDI1LzA1/L01pY3Jvc29mdC1Q/b3dlci1BdXRvbWF0/ZS1JY29uLTIwMjAu/cG5n" height="30" alt="powerautomate" />
   <!-- Nova: Adicione ícone para Power BI (ex: de devicons ou simpleicons.org/power-bi) -->
-  <img src="https://raw.githubusercontent.com/simpleicons/simpleicons/HEAD/icons/powerbi.svg" height="30" alt="powerbi" /> <!-- Exemplo de ícone simples -->
+  <img src="[https://raw.githubusercontent.com/simpleicons/simpleicons/HEAD/icons/powerbi.svg](https://imgs.search.brave.com/jN1hO2Xq_bk8ytZSeA9NAurWRxd3f6FTMBiRpAUptZs/rs:fit:860:0:0:0/g:ce/aHR0cHM6Ly9lYmFj/b25saW5lLmNvbS5i/ci9pbWFnZXMvdGls/ZDMyMzItMzEzMy00/NDMxLWE1NjEtMzY2/NTM5MzgzNjM5X19w/b3dlci1iaS1tb2Jp/bGUtbG9nby5wbmc)" height="30" alt="powerbi" /> <!-- Exemplo de ícone simples -->
 </div>
 
 - **Microsoft Ecosystem:** Dataverse | Dynamics 365 (Sales, Service) | **Power Platform** | Power Automate | **Power BI** | **Power Fx**
@@ -34,7 +34,7 @@
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/xml/xml-original.svg" height="30" alt="fetchxml" />
 </div>
 
-- **Linguagens de Programação:** **C# (Intermediário)** | JavaScript (Intermediário) | TypeScript (Intermediário) | **FetchXML (Básico)**
+- **Linguagens de Programação:** **C# ** | JavaScript | TypeScript | **FetchXML (Básico)**
 
 <!-- Bancos de Dados & Ferramentas -->
 <div align="left" style="margin-top: 8px;">
@@ -47,7 +47,7 @@
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg" height="30" alt="git" />
 </div>
 
-- **Bancos de Dados & Ferramentas:** MongoDB (Básico) | SQL Server (Básico) | **APIs REST (Básico)** | Git/GitHub (Básico)
+- **Bancos de Dados & Ferramentas:** MongoDB | SQL Server | **APIs REST** | Git/GitHub 
 
 <!-- Web & Frontend (Mantido, mas atualizado com níveis implícitos) -->
 <div align="left" style="margin-top: 8px;">
